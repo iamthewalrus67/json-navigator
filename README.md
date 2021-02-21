@@ -24,3 +24,6 @@ Commands:
 
 ## Result
 ![Alt text](images/result.png)
+
+## License
+[MIT](LICENSE)
