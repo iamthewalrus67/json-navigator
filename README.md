@@ -15,10 +15,10 @@ or
 ```
 
 Commands:
-- ```ls```  -- show current directory (can also use ```dir```)
-- ```cd <dict or list>``` -- move to dir or list
-- ```cd ..``` -- go back
-- ```quit``` -- leave the program (can also user ```exit```)
+- ```ls```  — show current directory (can also use ```dir```)
+- ```cd <dict or list>``` — move to dir or list
+- ```cd ..``` — go back
+- ```quit``` — leave the program (can also use ```exit```)
 
 ## Result
 ![Alt text](images/result.png)
