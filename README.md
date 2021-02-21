@@ -16,7 +16,7 @@ or
 
 Commands:
 - ```ls```  — show current directory (can also use ```dir```)
-- ```cd <dict or list>``` — move to dir or list
+- ```cd <dict or list>``` — move to dictionary or list
 - ```cd ..``` — go back
 - ```quit``` — leave the program (can also use ```exit```)
 
